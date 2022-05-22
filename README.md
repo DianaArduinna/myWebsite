@@ -1,1 +1,3 @@
-# myWebsite
+# MyWebsite
+
+This is really awesome
